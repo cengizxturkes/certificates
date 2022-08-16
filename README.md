@@ -1,1 +1,1 @@
-# certificates
+# Bu Kısımda Sertifikalarım Bulunmaktadır
